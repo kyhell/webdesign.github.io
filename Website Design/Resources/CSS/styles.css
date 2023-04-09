@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    font-family: 'Oswald';
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+
+.subhead {
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 400;
+}
+
+/*Colors*/
+
+.colors {
+    border: 1px solid gray;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+.color-container {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    padding: 10px 15px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.bg-gray {
+    background-color: #808080;
+    color: #fff;
+}
+
+.bg-pink {
+    background-color: #FF6EC7;
+}
+
+.bg-aqua {
+    background-color: #00FFFF;
+}
+
+.bg-lime {
+    background-color: #6EFE17;
+}
+
+/*Fonts*/
+
+.fonts {
+    border: 1px solid gray;
+    padding-left: 15px;
+}
+
+.font-name {
+    font-size: 24px;
+    letter-spacing: 2px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.oswald {
+    font-family: 'Oswald';
+}
+
+.roboto {
+    font-family: 'Roboto';
+}
+
+.roboto-condensed {
+    font-family: 'Roboto Condensed';
+}
+
+/*Text Styles*/
+
+.text-styles {
+    border: 1px solid gray;
+    padding-left: 15px;
+    margin-top: 15px;
+}
